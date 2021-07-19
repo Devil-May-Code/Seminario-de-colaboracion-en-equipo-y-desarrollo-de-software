@@ -1,0 +1,3 @@
+[submodule "git search/crispy-doom"]
+	path = git search/crispy-doom
+	url = https://github.com/fabiangreffrath/crispy-doom.git
